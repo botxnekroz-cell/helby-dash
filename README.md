@@ -1,4 +1,4 @@
-# 🎵 Echo Music Bot + Web Dashboard
+# 🎵 Music Bot + Web Dashboard
 
 > A powerful Discord Music Bot with a modern Web Dashboard for complete music management, playlist sharing, and server control.
 
